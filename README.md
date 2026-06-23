@@ -1,5 +1,10 @@
 # flutter_math_curve_loading
 
+[![pub package](https://img.shields.io/pub/v/flutter_math_curve_loading.svg)](https://pub.dev/packages/flutter_math_curve_loading)
+[![pub points](https://img.shields.io/pub/points/flutter_math_curve_loading)](https://pub.dev/packages/flutter_math_curve_loading/score)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web%20%7C%20macos%20%7C%20windows%20%7C%20linux-blue.svg)](https://pub.dev/packages/flutter_math_curve_loading)
+
 Mathematical-curve loading indicators for Flutter. A particle trail rides a
 parametric curve over a faint background track, with breathing detail and
 optional slow rotation.
