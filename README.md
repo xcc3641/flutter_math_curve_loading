@@ -13,11 +13,31 @@ A Flutter port of [math-curve-loaders](https://github.com/Paidax01/math-curve-lo
 
 <img src="https://raw.githubusercontent.com/xcc3641/flutter_math_curve_loading/main/images/showcase.png" width="640" alt="Six math-curve loaders: rose trail, rose curve, Lissajous, cardioid heart, butterfly, and Fourier flow" />
 
-## Usage
+Pure Dart — no plugins, no native code. Works on Android, iOS, web, macOS,
+Windows, and Linux.
+
+## Installation
+
+```bash
+flutter pub add flutter_math_curve_loading
+```
+
+Or add it to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter_math_curve_loading: ^0.0.1
+```
+
+Then import it:
 
 ```dart
 import 'package:flutter_math_curve_loading/flutter_math_curve_loading.dart';
+```
 
+## Usage
+
+```dart
 // Defaults to MathCurves.originalThinking.
 const MathCurveLoading();
 
