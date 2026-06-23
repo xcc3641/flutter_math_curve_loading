@@ -1,0 +1,30 @@
+name: flutter_math_curve_loading
+description: >-
+  Mathematical-curve loading indicators. A particle trail rides parametric
+  curves (rose, Lissajous, cardioid, butterfly, Fourier, and more) over a faint
+  background track, with breathing detail and optional rotation.
+version: 0.0.1
+homepage: https://github.com/xcc3641/flutter_math_curve_loading
+repository: https://github.com/xcc3641/flutter_math_curve_loading
+issue_tracker: https://github.com/xcc3641/flutter_math_curve_loading/issues
+topics:
+  - loading
+  - loader
+  - animation
+  - progress-indicator
+  - custom-painter
+
+environment:
+  sdk: ^3.11.5
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
